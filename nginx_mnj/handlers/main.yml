@@ -1,0 +1,6 @@
+---
+# handlers file for nginx_mnj
+- name: "restart service"
+  service:
+    name: nginx
+    state: restarted

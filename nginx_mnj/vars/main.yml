@@ -1,0 +1,4 @@
+---
+# vars file for nginx_mnj
+server_con: 1024
+port_num: 9092
